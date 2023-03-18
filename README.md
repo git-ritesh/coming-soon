@@ -1,2 +1,3 @@
 # COMING SOON WEBPAGE CLONE
-https://git-ritesh.github.io/coming-soon/
+
+<a href = "https://git-ritesh.github.io/coming-soon/">Click Here to see the webpage </a>
